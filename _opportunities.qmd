@@ -1,0 +1,15 @@
+```{=html}
+<section class="opportunity-spotlight" aria-labelledby="opportunity-heading">
+  <div>
+    <p class="spotlight-label">PhD projects · TREES DLA · 2027 entry</p>
+    <h2 id="opportunity-heading">AI for landslides and extreme geohazard flows</h2>
+    <p>Explore two advertised PhD projects at King’s College London, with Lorenzo Nava on the supervisory teams.</p>
+    <ul class="spotlight-projects">
+      <li><a href="https://www.trees-dla.ac.uk/projects/quantifying-landslide-impacts-across-europe-using-ai">Quantifying Landslide Impacts across Europe using AI</a></li>
+      <li><a href="https://www.trees-dla.ac.uk/projects/predicting-extreme-geohazard-flows-ai">Predicting Extreme Geohazard Flows with AI</a></li>
+    </ul>
+    <p class="opportunity-deadline">Application deadline: <time datetime="2026-12-14T17:00:00+00:00">14 December 2026, 17:00 UK time</time>.</p>
+  </div>
+  <a class="spotlight-button" href="join-us.html#opportunities">Details &amp; how to apply <span aria-hidden="true">→</span></a>
+</section>
+```

@@ -1,38 +1,42 @@
 project:
   type: website
   output-dir: docs
-  resources:
-    - google0963fce064878026.html
+  render:
+    - index.qmd
+    - about.qmd
+    - research.qmd
+    - people.qmd
+    - publications.qmd
+    - code-data.qmd
+    - join-us.qmd
 
 website:
-  title: "Lorenzo Nava"
-  favicon: assets/logo.png
-  description: "AI-enabled multihazard forecasting, early warning systems, and response"
+  site-url: "https://mhil-kcl.github.io"
+  title: "Multi-Hazard Intelligence Lab (MHIL)"
+  description: "Multi-Hazard Intelligence Lab (MHIL) at King's College London: artificial intelligence for hazard forecasting, early warning, and disaster response."
   navbar:
-    logo: assets/logo.png
-    right:
-      - text: About
-        href: about.qmd
-      - text: People
-        href: people.qmd
-      - text: Research
-        href: research.qmd
-      - text: Publications
-        href: publications.qmd
-      - text: Join Us
-        href: join-us.qmd
-      # - text: Posts
-      #   href: posts/
-  # page-footer:
-  #   center: |
-  #     © 2026 Nava Group · Built with Quarto · Hosted on GitHub Pages
+    title: "MHIL"
+    collapse-below: lg
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: people.qmd
+        text: People
+      - href: publications.qmd
+        text: Publications
+      - href: code-data.qmd
+        text: Code & Data
+      - href: join-us.qmd
+        text: Opportunities
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
-    # include-after-body: _includes/footer.html
-
-metadata-files:
-  - _meta.yml
+    toc: false
+    include-after-body: _footer.html
+    lang: en-GB
