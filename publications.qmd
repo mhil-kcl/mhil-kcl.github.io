@@ -2,66 +2,102 @@
 title: Publications
 ---
 
-Below is a curated list of peer-reviewed publications related to
-**AI for geohazard forecasting, modelling, and response**.
+Selected publications on **artificial intelligence, Earth observation, and natural hazards**, including work by Lorenzo Nava and collaborators.
 
-## Journal Articles
+[King’s research profile](https://kclpure.kcl.ac.uk/portal/en/persons/lorenzo.nava/) · [ORCID](https://orcid.org/0000-0002-2327-8721) · [Code & Data](code-data.qmd)
+
+Last updated: **31 October 2026**.
+
+## Journal publications
+
+### 2026
+
+1. Wang, X., Jansen, J. D., Chen, L., Dai, L., Bhuyan, K., Fang, C., **Nava, L.**, Catani, F., & Fan, X. (2026).  
+   *Hillslope memory of sequential earthquakes.*  
+   **Science Advances**, 12(36), eaeh3921. [DOI](https://doi.org/10.1126/sciadv.aeh3921)
+
+1. Albayrak, A. R., Kuglitsch, M. M., Luterbacher, J., Xoplaki, E., **Nava, L.**, McClain, S., et al. (2026).  
+   *Converting raw data into actionable information: A topical review of artificial intelligence, machine learning, and digital twins in disaster management.*  
+   **IEEE Geoscience and Remote Sensing Magazine**, 14(3), 76–96. [DOI](https://doi.org/10.1109/MGRS.2025.3642854)
+
+1. **Nava, L.**, Van Wyk de Vries, M., & Bell, L. E. (2026).  
+   *A workflow to identify and monitor slow-moving landslides through spaceborne optical feature tracking.*  
+   **Natural Hazards and Earth System Sciences**, 26(5), 2305–2318. [DOI](https://doi.org/10.5194/nhess-26-2305-2026) · [Code](https://github.com/lorenzonava96/TerraTrack)
 
 1. **Nava, L.**, Mondini, A., Bhuyan, K., Fang, C., Monserrat, O., Novellino, A., & Catani, F. (2026).  
-   *Sentinel-1 SAR-based globally distributed landslide detection by deep neural networks.*  
+   *Sentinel-1 SAR-based globally distributed co-seismic landslide detection by deep neural networks.*  
    **Geoscientific Model Development**, 19(1), 167–185. [DOI](https://doi.org/10.5194/gmd-19-167-2026)
 
-2. **Dong, Y.**, **Nava, L.**, & Catani, F. (2025).  
+### 2025
+
+1. **Dong, Y.**, **Nava, L.**, Palamà, R., Monserrat, O., Festa, D., Floris, M., Rosi, A., & Catani, F. (2025).  
    *Improving ground deformation classification by integrating InSAR time series with geospatial information.*  
    **IEEE Transactions on Geoscience and Remote Sensing**, 63, 1–12. [DOI](https://doi.org/10.1109/TGRS.2025.3635271)
 
-3. **Nava, L.**, Kuglitsch, M. M., Selby, J., Bray, A., Kennedy, P., Lontsi, J., et al. (2025).  
+1. **Nava, L.**, Kuglitsch, M. M., Selby, J., Bray, A., Kennedy, P., Lontsi, J., et al. (2025).  
    *Introducing AI practitioners to international standards through online competitions.*  
-   **npj Natural Hazards**, 2(1), 102. [DOI](https://doi.org/10.1038/s44304-025-00154-8)
+   **npj Natural Hazards**, 2, Article 102. [DOI](https://doi.org/10.1038/s44304-025-00154-8)
 
-4. Tang, X., Lu, Z., Fan, X., Yan, X., Yuan, X., Li, D., … **Nava, L.**, & Catani, F. (2025).  
+1. Tang, X., Lu, Z., Fan, X., Yan, X., Yuan, X., Li, D., … **Nava, L.**, & Catani, F. (2025).  
    *Mamba for landslide detection: a lightweight model for mapping landslides with very high-resolution images.*  
    **IEEE Transactions on Geoscience and Remote Sensing**, 63, 1–17. [DOI](https://doi.org/10.1109/TGRS.2025.3598446)
 
-5. **Nava, L.**, Novellino, A., Fang, C., Bhuyan, K., Leeming, K., Alvarez, I. G., et al. (2025).  
-   *AI-driven rapid landslide mapping following the 2024 Hualien City earthquake in Taiwan.*  
-   **Natural Hazards and Earth System Sciences**, 25(7), 2371–2377. [DOI](https://doi.org/10.5194/nhess-2024-146)
+1. **Nava, L.**, Novellino, A., Fang, C., Bhuyan, K., Leeming, K., Alvarez, I. G., et al. (2025).  
+   *Brief communication: AI-driven rapid landslide mapping following the 2024 Hualien earthquake in Taiwan.*  
+   **Natural Hazards and Earth System Sciences**, 25(7), 2371–2377. [DOI](https://doi.org/10.5194/nhess-25-2371-2025)
 
-6. Dramsch, J., Kuglitsch, M. M., Fernández-Torres, M.-Á., Toreti, A., Albayrak, R. A., **Nava, L.**, et al. (2025).  
+1. Dramsch, J., Kuglitsch, M. M., Fernández-Torres, M.-Á., Toreti, A., Albayrak, R. A., **Nava, L.**, et al. (2025).  
    *Explainability can foster trust in artificial intelligence in geoscience.*  
-   **Nature Geoscience**, 1–3. [DOI](https://doi.org/10.1038/s41561-025-01639-x)
+   **Nature Geoscience**, 18, 112–114. [DOI](https://doi.org/10.1038/s41561-025-01639-x)
 
-7. Bhuyan, K., Rana, K., Ozturk, U., **Nava, L.**, Rosi, A., Meena, S. R., et al. (2025).  
+1. Bhuyan, K., Rana, K., Ozturk, U., **Nava, L.**, Rosi, A., Meena, S. R., et al. (2025).  
    *Towards automatic delineation of landslide source and runout.*  
    **Engineering Geology**, 345, 107866. [DOI](https://doi.org/10.1016/j.enggeo.2024.107866)
 
-8. Fang, C., Fan, X., Wang, X., **Nava, L.**, Zhong, H., Dong, X., et al. (2024).  
-   *A globally distributed dataset of coseismic landslide mapping via multi-source high-resolution remote sensing images.*  
-   **Earth System Science Data**, 16, 4817–4858. [DOI](https://doi.org/10.5194/essd-16-4817-2024)
-
-9. **Nava, L.**, Tordesillas, A., Qian, G., & Catani, F. (2024).  
+1. **Nava, L.**, Tordesillas, A., Qian, G., & Catani, F. (2025).  
    *Displacement residuals reveal landslide regime shifts.*  
-   **Landslides**, 1–16. [DOI](https://doi.org/10.1007/s10346-024-02353-2)
+   **Landslides**, 22(1), 1–16. [DOI](https://doi.org/10.1007/s10346-024-02353-2)
 
-10. **Nava, L.***, Carraro, E., Reyes-Carmona, C., Puliero, S., Bhuyan, K., Rosi, A., et al. (2023).  
-    *Landslide displacement forecasting using deep learning and monitoring data across selected sites.*  
-    **Landslides**, 1–19. [DOI](https://doi.org/10.1007/s10346-023-02104-9)
+### 2024
 
-11. **Nava, L.**, Bhuyan, K., Meena, S. R., Monserrat, O., & Catani, F. (2022).  
-    *Rapid mapping of landslides on SAR data by attention U-Net.*  
-    **Remote Sensing**, 14(6), 1449. [DOI](https://doi.org/10.3390/rs14061449)
+1. Fang, C., Fan, X., Wang, X., **Nava, L.**, Zhong, H., Dong, X., et al. (2024).  
+   *A globally distributed dataset of coseismic landslide mapping via multi-source high-resolution remote sensing images.*  
+   **Earth System Science Data**, 16, 4817–4842. [DOI](https://doi.org/10.5194/essd-16-4817-2024)
 
-12. **Nava, L.**, Cuevas, M., Meena, S. R., Catani, F., & Monserrat, O. (2022).  
-    *Artisanal and small-scale mine detection in semi-desertic areas by improved U-Net.*  
-    **IEEE Geoscience and Remote Sensing Letters**, 19, 1–5. [DOI](https://doi.org/10.1109/LGRS.2022.3220487)
+### 2023
 
-13. **Nava, L.**, Monserrat, O., & Catani, F. (2022).  
-    *Improving landslide detection on SAR data through deep learning.*  
-    **IEEE Geoscience and Remote Sensing Letters**, 19, 1-5. [DOI](https://doi.org/10.1109/LGRS.2021.3127073)
+1. **Nava, L.**, Carraro, E., Reyes-Carmona, C., Puliero, S., Bhuyan, K., Rosi, A., et al. (2023).  
+   *Landslide displacement forecasting using deep learning and monitoring data across selected sites.*  
+   **Landslides**, 20, 2111–2129. [DOI](https://doi.org/10.1007/s10346-023-02104-9)
+
+### 2022
+
+1. **Nava, L.**, Bhuyan, K., Meena, S. R., Monserrat, O., & Catani, F. (2022).  
+   *Rapid mapping of landslides on SAR data by attention U-Net.*  
+   **Remote Sensing**, 14(6), 1449. [DOI](https://doi.org/10.3390/rs14061449)
+
+1. **Nava, L.**, Cuevas, M., Meena, S. R., Catani, F., & Monserrat, O. (2022).  
+   *Artisanal and small-scale mine detection in semi-desertic areas by improved U-Net.*  
+   **IEEE Geoscience and Remote Sensing Letters**, 19, 1–5. [DOI](https://doi.org/10.1109/LGRS.2022.3220487)
+
+1. **Nava, L.**, Monserrat, O., & Catani, F. (2022).  
+   *Improving landslide detection on SAR data through deep learning.*  
+   **IEEE Geoscience and Remote Sensing Letters**, 19, 1–5. [DOI](https://doi.org/10.1109/LGRS.2021.3127073)
+
+## Preprints
+
+The following manuscripts are preprints and are listed separately from journal publications.
+
+1. Catani, F., Palmieri, C., Todde, R., **Nava, L.**, & Floris, M. (2026).  
+   *EGMSpy: an open-source Python toolkit for scalable data handling, classification, clustering, and visualisation of Copernicus EGMS InSAR data.*  
+   **EarthArXiv**, preprint. [DOI](https://doi.org/10.31223/X55B59) · [Code](https://github.com/fcatani/EGMSpy)
+
+2. **Nava, L.**, Chen, Y., & Van Wyk de Vries, M. (2025).  
+   *Neural emulation of gravity-driven geohazard runout.*  
+   **arXiv**, preprint, arXiv:2512.16221. [Preprint](https://arxiv.org/abs/2512.16221) · [Code](https://github.com/lorenzonava96/Neural-Emulation-of-Mass-Flow-Runout)
 
 ## Book Chapters
 
 - Catani, F., **Nava, L.**, & Bhuyan, K. (2025).  
   *Artificial intelligence applications for landslide mapping and monitoring on EO data.*  
   In **Earth Observation Applications to Landslide Mapping, Monitoring and Modeling** (pp. 119–145). Elsevier.  [DOI](https://doi.org/10.1016/B978-0-12-823868-4.00007-6)
-

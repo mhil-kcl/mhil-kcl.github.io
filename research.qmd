@@ -149,3 +149,17 @@ title: Research
 
 ```
 
+## Field perspectives
+
+```{=html}
+<div class="field-gallery">
+  <figure class="field-photo">
+    <img src="assets/research.jpeg" alt="A person examining a crack in rocky ground above a mountain lake" loading="lazy" decoding="async" width="1280" height="1707">
+    <figcaption>A closer look at a ground crack in a high-mountain landscape.</figcaption>
+  </figure>
+  <figure class="field-photo">
+    <img src="assets/field-slope.jpeg" alt="The headscarp of the Butwal landslide in Nepal, with a person in the foreground" loading="lazy" decoding="async" width="768" height="1024">
+    <figcaption>Headscarp of the Butwal landslide, Nepal.</figcaption>
+  </figure>
+</div>
+```

@@ -8,6 +8,37 @@ early warning systems, and decision support**.
 Our work combines machine learning, physical modelling, and uncertainty analysis to support
 risk-informed decisions for natural hazards.
 
+## Opportunities
+
+### TREES DLA PhD projects — 2027 entry
+
+Applications are open through the **TREES Doctoral Landscape Award**. The application deadline is **14 December 2026 at 17:00 UK time**.
+
+```{=html}
+<div class="resource-grid">
+  <article class="resource-card">
+    <p class="resource-type">PhD · CASE partnership with BGS</p>
+    <h3>Quantifying Landslide Impacts across Europe using AI</h3>
+    <p>Develop AI and Earth observation methods to map landslides across Europe and investigate their contribution to disaster impacts and multi-hazard risk.</p>
+    <p><strong>Supervisors:</strong> Faith Taylor and Lorenzo Nava, King’s College London.<br><strong>Co-supervisors:</strong> Alessandro Novellino and Ekbal Hussain, British Geological Survey (BGS). Includes a BGS placement of at least three months.</p>
+    <div class="resource-links"><a href="https://www.trees-dla.ac.uk/projects/quantifying-landslide-impacts-across-europe-using-ai">Official project description ↗</a></div>
+  </article>
+  <article class="resource-card">
+    <p class="resource-type">PhD · AI and cascading hazards</p>
+    <h3>Predicting Extreme Geohazard Flows with AI</h3>
+    <p>Combine satellite, terrain, seismic and environmental data to reconstruct and predict long-runout flows, including debris flows and glacial lake outburst floods.</p>
+    <p><strong>Supervisors:</strong> Tom Matthews and Lorenzo Nava, King’s College London.<br><strong>Co-supervisor:</strong> Max Van Wyk de Vries, University of Cambridge.</p>
+    <div class="resource-links"><a href="https://www.trees-dla.ac.uk/projects/predicting-extreme-geohazard-flows-ai">Official project description ↗</a></div>
+  </article>
+</div>
+```
+
+**How to apply:** follow the [TREES application guidance](https://www.trees-dla.ac.uk/apply) for eligibility, funding arrangements and the application portal. Advertised projects use Route 1; applicants can select up to three projects. Studentships are awarded through the TREES selection process.
+
+TREES funding covers a stipend and UK-rate fees. A limited number of international studentships also cover overseas fees, subject to funding availability; consult the official guidance for the conditions that apply to you.
+
+For project enquiries, email [lorenzo.nava@kcl.ac.uk](mailto:lorenzo.nava@kcl.ac.uk). Applications must be submitted through TREES.
+
 ## Research themes
 
 - Multi-hazard and cascading event modelling
@@ -16,7 +47,11 @@ risk-informed decisions for natural hazards.
 - End-to-end warning pipelines and decision support
 - Open tools, reproducible science, and real-world impact
 
-## Opportunities
+## Further opportunities
+
+For PhD, MSc, visiting research, and fellowship enquiries beyond the advertised projects above, please contact us using the guidance below.
+
+<!-- Keep advertised projects and _opportunities.qmd in sync. Remove or archive closed calls after their deadlines. -->
 
 ### PhD / MSc students
 Applicants with a strong quantitative background (e.g. machine learning, statistics, physics,

@@ -1,0 +1,61 @@
+---
+title: Code & Data
+---
+
+Explore software, datasets, and trained models associated with our research and collaborations. Each resource links to its repository or archived release for documentation and citation details.
+
+[Browse Lorenzo Nava’s GitHub](https://github.com/lorenzonava96){.resource-profile}
+
+## Research software
+
+```{=html}
+<div class="resource-grid">
+<article class="resource-card">
+<p class="resource-type">Software · Sentinel-2</p>
+<h3>TerraTrack</h3>
+<p>Optical feature tracking for detecting and monitoring slow-moving landslides using Sentinel-2 imagery.</p>
+<div class="resource-links"><a href="https://github.com/lorenzonava96/TerraTrack">GitHub <span aria-hidden="true">↗</span></a><a href="https://github.com/lorenzonava96/TerraTrack/tree/main/notebooks">Notebooks <span aria-hidden="true">↗</span></a></div>
+</article>
+<article class="resource-card">
+<p class="resource-type">Software · Sentinel-1</p>
+<h3>SAR-LRA</h3>
+<p>SAR-based deep learning for rapid assessment of earthquake-triggered landslide events.</p>
+<div class="resource-links"><a href="https://github.com/lorenzonava96/SAR-and-DL-for-Landslide-Rapid-Assessment">GitHub <span aria-hidden="true">↗</span></a><a href="https://zenodo.org/records/17328763">Zenodo archive <span aria-hidden="true">↗</span></a><a href="https://doi.org/10.5194/gmd-19-167-2026">Paper <span aria-hidden="true">↗</span></a></div>
+</article>
+<article class="resource-card">
+<p class="resource-type">Software · Runout modelling</p>
+<h3>Neural Emulation of Mass Flow Runout</h3>
+<p>Neural emulators of physics-based simulations, predicting runout extent and final deposit thickness.</p>
+<div class="resource-links"><a href="https://github.com/lorenzonava96/Neural-Emulation-of-Mass-Flow-Runout">GitHub <span aria-hidden="true">↗</span></a><a href="https://zenodo.org/records/19853721">Model weights <span aria-hidden="true">↗</span></a><a href="https://zenodo.org/records/19831785">Training dataset <span aria-hidden="true">↗</span></a></div>
+</article>
+</div>
+```
+
+## Datasets & models
+
+```{=html}
+<div class="resource-grid">
+<article class="resource-card">
+<p class="resource-type">Dataset · Zenodo</p>
+<h3>Synthetic mass-flow runout dataset</h3>
+<p>Synthetic physics-based simulations for training and evaluating runout models, with terrain, source conditions, and final deposit thickness.</p>
+<div class="resource-links"><a href="https://zenodo.org/records/19831785">Dataset · DOI: 10.5281/zenodo.19831785 <span aria-hidden="true">↗</span></a></div>
+</article>
+<article class="resource-card">
+<p class="resource-type">Trained model · Zenodo</p>
+<h3>Mass-flow runout emulator</h3>
+<p>Trained neural-network weights, model implementation, and inference examples. Trained on synthetic data; not calibrated to real-world observations.</p>
+<div class="resource-links"><a href="https://zenodo.org/records/19853721">Model · DOI: 10.5281/zenodo.19853721 <span aria-hidden="true">↗</span></a></div>
+</article>
+<article class="resource-card">
+<p class="resource-type">Research archive · Zenodo</p>
+<h3>SAR-LRA resources</h3>
+<p>Archived SAR-LRA release. The record describes the notebook, training data, inventories, and weights; consult the repository for access instructions and the files supplied by each version.</p>
+<div class="resource-links"><a href="https://zenodo.org/records/17328763">Archive · DOI: 10.5281/zenodo.17328763 <span aria-hidden="true">↗</span></a></div>
+</article>
+</div>
+```
+
+## Using these resources
+
+Please follow the licence and citation instructions provided with each repository and dataset. For the scientific context, see our [Research](research.qmd) and [Publications](publications.qmd) pages.

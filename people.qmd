@@ -18,6 +18,12 @@ title: People
 </div>
 ```
 
+I am an AI+ Academic Senior Fellow at **King’s College London**, working on the use of **artificial intelligence for disaster forecasting, modelling, and response**.
+
+My research focuses on **interacting natural hazards**, with an emphasis on **AI-enabled forecasting**, **early warning systems**, and **decision support for disaster risk reduction**. I develop machine learning approaches combined with system-level modelling to better understand cascading impacts, uncertainty, and operational constraints in real-world settings.
+
+My work sits at the interface of **artificial intelligence, Earth systems, and disaster risk**, spanning the **King’s Institute for Artificial Intelligence** and the **Department of Geography**.
+
 ## Co-supervised
 
 ```{=html}
@@ -158,8 +164,9 @@ title: People
 
 
 <div class="recruiting">
-  We are currently recruiting and open to visiting researchers and students. See <a href="join-us.qmd">Join Us</a>.
+  We are currently recruiting and open to visiting researchers and students. See <a href="join-us.html">Join Us</a>.
+</div>
+
 </div>
 
 ```
-
