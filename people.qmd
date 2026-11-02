@@ -9,20 +9,38 @@ title: People
   <img src="assets/people/LN.jpg" class="person-photo" alt="Lorenzo Nava">
 
   <div class="person-info">
-    <div class="person-role">AI+ Academic Senior Fellow at King's College London</div>
+    <div class="person-role">Lab Lead · AI+ Academic Senior Fellow</div>
     <div class="person-name">Lorenzo Nava</div>
+    <div class="person-affiliation">King’s College London</div>
     <div class="person-topics">
-      Deep Learning, Remote Sensing, and Numerical Modelling for geohazard prediction and response<br>
+      AI, Earth observation, and modelling for hazard prediction and response.
     </div>
   </div>
 </div>
 ```
 
-I am an AI+ Academic Senior Fellow at **King’s College London**, working on the use of **artificial intelligence for disaster forecasting, modelling, and response**.
+## Visiting PhD researchers
 
-My research focuses on **interacting natural hazards**, with an emphasis on **AI-enabled forecasting**, **early warning systems**, and **decision support for disaster risk reduction**. I develop machine learning approaches combined with system-level modelling to better understand cascading impacts, uncertainty, and operational constraints in real-world settings.
-
-My work sits at the interface of **artificial intelligence, Earth systems, and disaster risk**, spanning the **King’s Institute for Artificial Intelligence** and the **Department of Geography**.
+```{=html}
+<div class="people-cards">
+  <div class="person-card">
+    <div class="person-initials" aria-hidden="true">SF</div>
+    <div class="person-info">
+      <div class="person-role">Visiting PhD researcher</div>
+      <div class="person-name">Shutong Fang</div>
+      <div class="person-affiliation">SKLGP</div>
+    </div>
+  </div>
+  <div class="person-card">
+    <div class="person-initials" aria-hidden="true">PJ</div>
+    <div class="person-info">
+      <div class="person-role">Visiting PhD researcher</div>
+      <div class="person-name">Peifang Jiang</div>
+      <div class="person-affiliation">SKLGP</div>
+    </div>
+  </div>
+</div>
+```
 
 ## Co-supervised
 

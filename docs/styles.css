@@ -725,3 +725,18 @@ main .opportunity-spotlight h2 { border: 0; padding: 0; margin: 0 0 .7rem; font-
  .opportunity-spotlight { align-items: flex-start; flex-direction: column; gap: 1.3rem; padding: 1.5rem; }
  .spotlight-button { max-width: 100%; }
 }
+
+/* Initials retain profile alignment when no headshot has been supplied. */
+.person-initials {
+  width: 140px;
+  height: 140px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #edf3ee;
+  color: var(--forest);
+  border-radius: 4px;
+  font-size: 2rem;
+  font-weight: 600;
+  letter-spacing: .06em;
+}
